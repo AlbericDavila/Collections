@@ -1,7 +1,9 @@
 Collections
 ===========
 
-The tests/drivers for these datastructures were created by Dr. Anotnio Huertas, my mentor in data structures. He gave all the students the tests programs (or drivers) and we had to create the datastructures that would run them correctly.
+******
+The tests/drivers for these data structures were created by Dr. Anotnio Huertas, my mentor in data structures. He gave all the students the tests programs (or drivers) and we had to create the datastructures that would run them correctly.
+******
 
 These are the data structures discussed and worked with in the course "SICI - 4036 - Data Structures".
 List of the classes in this project:
